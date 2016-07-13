@@ -17,6 +17,9 @@ https://dl.twrp.me/flo/twrp-3.0.2-0-flo.img
 SuperSU is then downloaded:
 https://download.chainfire.eu/897/SuperSU/BETA-SuperSU-v2.67-20160121175247.zip?retrieve_file=1
 
+Unlock the device and sleep for a minute as you may need to touch the screen to confirm this if not already unlocked.
+/bin/bash ./oemUnlock.sh && sleep 1m
+
 Stock image is flashed (Change 32gb to the required version):
 /bin/bash ./stockNexusFlash.sh 32gb
 
