@@ -1,5 +1,5 @@
 # Kali_Nethunter_2013_Build
-# https://itfellover.com/kali-nethunter-custom-build-nexus-7-2013/
+https://itfellover.com/kali-nethunter-custom-build-nexus-7-2013/
 
 This script allows you to easily deploy Kali Linux Nethunter to the 2013 Nexus 7 (LMY48G) with ease. It can be modified for other devices too.
 
